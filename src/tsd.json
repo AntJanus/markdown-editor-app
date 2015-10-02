@@ -17,9 +17,6 @@
     "angular2/angular2.d.ts": {
       "commit": "386e1708b9e5cb0d798c63ac43b5d0fc8d0f9bfd"
     },
-    "jasmine/jasmine.d.ts": {
-      "commit": "386e1708b9e5cb0d798c63ac43b5d0fc8d0f9bfd"
-    },
     "marked/marked.d.ts": {
       "commit": "386e1708b9e5cb0d798c63ac43b5d0fc8d0f9bfd"
     }
